@@ -77,8 +77,8 @@ Abhimanyu can't win the battle!
 
 Test Case 2:
 Input:
-Enter Abhimanyu's initial power, number of skips & recharge allowed: 25 3 2
-Enter the powers of 11 enemies of each circle: 9 7 11 5 6 12 15 8 9 4 3
+Enter Abhimanyu's initial power, number of skips & recharge allowed: 17 3 3
+Enter the powers of 11 enemies of each circle: 7 8 5 4 10 9 11 6 2 3 7
 Output:
 Abhimanyu can win the battle!
 */

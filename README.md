@@ -18,12 +18,12 @@ Imagine Abhimanyu in Chakravyuha. There are 11 circles in the Chakravyuha surrou
 *Test Case 1:*
 
 - initialPower = 17
-- skips = 2
-- recharges = 2
+- skips = 3
+- recharges = 3
 - EnemyPowers = [7, 8, 5, 4, 10, 9, 11, 6, 2, 3, 7]
 
 ```bash
-    17 2 2
+    17 3 3
     7 8 5 4 10 9 11 6 2 3 7
 ```
 
@@ -47,8 +47,5 @@ Imagine Abhimanyu in Chakravyuha. There are 11 circles in the Chakravyuha surrou
 
 ## Time & space Complexity
 
-1. Time complexity for the recursive solution is `O(3^11)`
-   and for the optimal solution is `O(11×100001×12×12)` ie. `O(1)`
-
-2. Space complexity for the recursive solution is `O(11)`
-  and for the optimal solution is `O(11×100001×12×12)` ie. `O(1)`
+1. Time complexity: `O(1)`
+2. Space complexity: `O(1)`
